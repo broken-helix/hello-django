@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-w69(a*#h0!4e9gi2d6z((&0a5yy=*xeul_q_!c_66(qlry!=je
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-broken-helix-hello-djang-4kedqgo1gj.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['fast-fortress-98313.herokuapp.com']
 
 
 # Application definition
